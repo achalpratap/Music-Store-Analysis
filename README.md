@@ -58,9 +58,6 @@ Query for above question set:
 
 <img width="728" alt="S7" src="https://user-images.githubusercontent.com/125743309/227790098-66ffd374-719d-4326-949e-7fa57f656657.png">
 
-<img width="737" alt="S8" src="https://user-images.githubusercontent.com/125743309/227790172-edc734cb-f01b-4911-ae13-0edd43e15a61.png">
-
-<img width="721" alt="S9" src="https://user-images.githubusercontent.com/125743309/227790243-9f040161-81d6-42fe-b228-71a890b284c9.png">
 
 All the query for the Music Store SQL dataset questions are avilable at https://github.com/achalpratap/Music-Store-Analysis/blob/main/Music_Store_Analysis.sql .
 
